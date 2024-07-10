@@ -15,6 +15,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
