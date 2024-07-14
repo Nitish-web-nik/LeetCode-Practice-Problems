@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -66,4 +67,12 @@
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
