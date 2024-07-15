@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
