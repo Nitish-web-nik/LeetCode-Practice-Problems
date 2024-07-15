@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -74,6 +75,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
