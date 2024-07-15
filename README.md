@@ -14,6 +14,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -90,4 +92,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
