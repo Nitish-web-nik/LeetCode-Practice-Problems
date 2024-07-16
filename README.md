@@ -74,6 +74,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -111,10 +112,12 @@
 ## Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
