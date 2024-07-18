@@ -68,10 +68,12 @@
 | [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
