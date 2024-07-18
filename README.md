@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
 ## String
