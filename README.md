@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -163,4 +164,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
