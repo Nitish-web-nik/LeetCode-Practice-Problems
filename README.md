@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
