@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
