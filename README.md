@@ -27,6 +27,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -53,11 +54,13 @@
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
