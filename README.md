@@ -4,6 +4,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
@@ -24,6 +25,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -49,6 +51,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -193,6 +196,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -206,6 +210,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Divide and Conquer
@@ -245,6 +250,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
 |  |
