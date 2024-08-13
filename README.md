@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
@@ -162,6 +163,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
 ## Enumeration
 |  |
