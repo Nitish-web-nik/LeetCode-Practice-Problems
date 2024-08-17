@@ -42,6 +42,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
 |  |
 | ------- |
