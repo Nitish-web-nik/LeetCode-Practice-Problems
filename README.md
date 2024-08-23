@@ -74,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -115,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -165,6 +167,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
@@ -186,6 +189,7 @@
 | [0050-powx-n](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
