@@ -108,6 +108,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
