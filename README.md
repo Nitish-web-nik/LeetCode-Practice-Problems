@@ -169,6 +169,7 @@
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -211,6 +212,7 @@
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -218,6 +220,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -237,6 +240,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
