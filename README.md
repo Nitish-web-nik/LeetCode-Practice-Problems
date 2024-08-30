@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2803-modify-graph-edge-weights](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
@@ -272,6 +273,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
+| [2803-modify-graph-edge-weights](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
 |  |
