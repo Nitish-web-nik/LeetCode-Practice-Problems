@@ -94,6 +94,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
