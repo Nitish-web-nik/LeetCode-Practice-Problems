@@ -59,6 +59,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -223,6 +224,7 @@
 | [0476-number-complement](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Recursion
 |  |
 | ------- |
@@ -363,4 +365,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1240-stone-game-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
