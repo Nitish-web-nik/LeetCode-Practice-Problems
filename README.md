@@ -92,6 +92,7 @@
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -137,6 +139,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -311,6 +314,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -322,6 +326,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
