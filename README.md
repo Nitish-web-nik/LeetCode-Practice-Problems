@@ -183,6 +183,7 @@
 | [1240-stone-game-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -261,6 +262,7 @@
 | [0273-integer-to-english-words](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
