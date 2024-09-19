@@ -171,6 +171,7 @@
 | [0050-powx-n](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0273-integer-to-english-words) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -254,6 +256,7 @@
 | [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -292,6 +295,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
@@ -300,6 +304,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
 |  |
