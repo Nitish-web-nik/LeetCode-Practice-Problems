@@ -314,6 +314,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -416,4 +417,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
