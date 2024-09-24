@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0214-shortest-palindrome) |
@@ -273,6 +274,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
 ## Enumeration
@@ -305,6 +307,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0664-strange-printer) |
