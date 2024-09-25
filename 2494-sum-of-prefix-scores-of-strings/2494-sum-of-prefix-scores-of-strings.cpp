@@ -1,11 +1,9 @@
-#include <vector>
-#include <string>
-#include <unordered_map>
+
 
 class TrieNode {
 public:
     int count; // To keep track of how many words share this prefix
-    std::unordered_map<char, TrieNode*> children;
+    unordered_map<char, TrieNode*> children;
 
     TrieNode() : count(0) {}
 };
@@ -45,17 +43,17 @@ public:
 
 class Solution {
 public:
-    std::vector<int> sumPrefixScores(std::vector<std::string>& words) {
+    vector<int> sumPrefixScores(vector<string>& words) {
         Trie trie;
 
         // Step 1: Insert all words into the Trie
-        for (const std::string& word : words) {
+        for (const string& word : words) {
             trie.insert(word);
         }
 
         // Step 2: Calculate the prefix scores for each word
         std::vector<int> answer;
-        for (const std::string& word : words) {
+        for (const string& word : words) {
             answer.push_back(trie.calculatePrefixScore(word));
         }
 
