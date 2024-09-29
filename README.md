@@ -81,6 +81,7 @@
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0906-walking-robot-simulation) |
@@ -164,6 +165,7 @@
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -449,6 +451,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0859-design-circular-deque) |
@@ -462,4 +465,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
