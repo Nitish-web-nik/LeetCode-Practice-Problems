@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0204-count-primes) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -140,6 +142,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
