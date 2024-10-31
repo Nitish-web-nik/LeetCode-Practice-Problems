@@ -74,6 +74,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2554-minimum-total-distance-traveled](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -169,6 +170,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2554-minimum-total-distance-traveled](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2846-robot-collisions) |
@@ -389,6 +391,7 @@
 | [1013-fibonacci-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2554-minimum-total-distance-traveled](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
