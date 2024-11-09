@@ -199,6 +199,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
@@ -373,6 +375,7 @@
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -384,6 +387,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -413,6 +417,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
