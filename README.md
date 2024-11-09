@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -427,6 +428,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1304-longest-happy-string) |
@@ -488,6 +491,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
