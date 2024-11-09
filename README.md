@@ -92,6 +92,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0268-missing-number) |
@@ -202,6 +203,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0206-reverse-linked-list) |
@@ -552,6 +554,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
@@ -570,6 +573,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Stack
 |  |
