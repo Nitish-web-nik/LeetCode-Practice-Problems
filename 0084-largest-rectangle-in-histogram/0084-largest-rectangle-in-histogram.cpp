@@ -1,30 +1,29 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
+        // Add a 0 at the end to handle remaining elements
+        heights.push_back(0);
         int n = heights.size();
-        stack<int> st;
+        stack<int> indices;
         int maxArea = 0;
         
-        // Iterate through all bars, including one extra iteration for remaining elements
-        for (int i = 0; i <= n; i++) {
-            // Current height is 0 if we're past the last bar
-            int currHeight = (i == n) ? 0 : heights[i];
-            
-            // While stack is not empty and current height is less than height at top of stack
-            while (!st.empty() && currHeight < heights[st.top()]) {
-                int height = heights[st.top()];
-                st.pop();
+        for(int i = 0; i < n; i++) {
+            // Process all bars that are taller than current bar
+            while(!indices.empty() && heights[i] < heights[indices.top()]) {
+                int height = heights[indices.top()];
+                indices.pop();
                 
-                // Width is distance from current position to previous element in stack
-                int width = st.empty() ? i : i - st.top() - 1;
+                // Calculate width based on the next smaller element on both sides
+                int width = indices.empty() ? i : (i - indices.top() - 1);
                 
-                // Update maximum area if current rectangle is larger
+                // Update maximum area
                 maxArea = max(maxArea, height * width);
             }
-            
-            st.push(i);
+            indices.push(i);
         }
         
+        // Remove the added 0 to restore original array
+        heights.pop_back();
         return maxArea;
     }
 };
