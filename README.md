@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0179-largest-number) |
@@ -307,6 +308,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0726-number-of-atoms) |
@@ -564,4 +566,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
