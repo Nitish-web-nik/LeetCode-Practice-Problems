@@ -60,6 +60,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -500,6 +501,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1755-defuse-the-bomb](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Breadth-First Search
 |  |
