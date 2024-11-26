@@ -13,6 +13,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2803-modify-graph-edge-weights](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
