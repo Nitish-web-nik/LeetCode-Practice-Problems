@@ -22,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0088-merge-sorted-array) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0141-linked-list-cycle) |
@@ -325,6 +327,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -416,6 +419,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0664-strange-printer) |
@@ -604,6 +608,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitish-web-nik/LeetCode-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 ## Topological Sort
 |  |
